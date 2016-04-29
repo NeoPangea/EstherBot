@@ -1,5 +1,13 @@
 {
-    "HELLO": "Hey, I'm so glad you decided to chat. ",
+    "HELLO": "Hey, I'm so glad you decided to chat. Remember that you can get help by simply typing HELP",
+    "HELP": "Try typing any of the following phrases:\nTell me a little bit about Jonathan\nWhat certifications does Jonathan have\nDoes Jonathan have a degree\nWhy should we hire Jonathan\nCan I book an interview with Jonathan\nIf Jonathan was an animal which one would he like to be",
+    "Tell me a little bit about Jonathan": "Sure, Jonathan is a family man with a wife and two boys. He is really good at handling Microsoft SQL Server and has been working for around 15 years with it. Jonathan can be classed as a full stack IT professional because although he specialises in Microsoft SQL Server, he tries to understand every aspect of the IT industry and how each part relates to the database. He finds this essential so he can understand where a potential performance bottleneck might originate from. Jonathan is currently working out how to provide Multi-Tenant Database hosting as a service using standard SQL Server functionality, and in his spare time, when the rest of the family sleeps, can be found dabbling in the Mobile development industry, having developed a number of small Android Apps.",
+    "How do you get Multi-Tenant hosting out of standard SQL Server": "That is a good question, but I don't understand all that stuff. It might be better to get Jonathan to explain it to you face to face.",
+    "Can I book an interview with Jonathan": "Yes, Alas he did not teach me how, I must ask him to do that. Maybe you should contact him, jonathan@russell.za.org",
+    "What certifications does Jonathan have": "Jonathan is certified at Microsoft Solutions Associate level in SQL Server 2012 and 2014 as well as Windows Server 2012. He is also Microsoft certified at Solutions Expert level on the Data Platform and Private Cloud. He is currently working on his Public cloud certifications.",
+    "Does Jonathan have a degree": "No, he entered the work place fairly early after High school and a degree never appealed to him.",
+    "Why should we hire Jonathan": "Jonathan is hard working and really knowledgable in his field. He even wanted to try and get his SQL Master certification, but Microsoft pulled the certification so he never got the chance. Maybe you should book an interview with him to get more of an idea",
+    "If Jonathan was an animal which one would he like to be": "Animals don't get to work on technology projects so I think Jonathan would graciously decline",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, I am back."
 }
